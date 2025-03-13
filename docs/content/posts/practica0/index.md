@@ -1,4 +1,9 @@
-<!--Caca-->
++++
+date = '2025-02-21T10:18:14-08:00'
+draft = false
+title = 'Mi Primer Post en Hugo'
++++
+<!--Encabezados-->
 
 # Encabezado 1
 
@@ -107,5 +112,8 @@ ___
   
 <!-- Menciones -->
 @darthrookie :+1: :smile:
+
+
+
 
 
