@@ -119,6 +119,8 @@ ___
 @darthrookie :+1: :smile:
 
 ---
+***
+___
 
 
 **Sesion 2:** Uso de Git y Github
@@ -128,6 +130,8 @@ En la segunda sesión se hicieron uso de comandos de Git para iniciar nuestro re
 Todo esto para poder hacer el repositorio en donde utilizaremos Hugo para crear nuestra pagina estatica.
 
 ---
+***
+___
 
 **Sesion 3:** Combinar los conocimientos de Markdown y Git para generar páginas estáticas con Hugo y GitHub Actions.
 
