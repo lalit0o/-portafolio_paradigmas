@@ -84,7 +84,7 @@ void incrementStackDeallocations();
 14. **Tipos de datos**:  
     - Se usan tipos primitivos como `int`, `size_t`, y `void *`.
 
-
+***Segundo código: biblioteca.c***
 
 ```c
 #include <stdio.h>
@@ -615,7 +615,7 @@ int main() {
 
 ```
 
-Aquí están los elementos fundamentales de los lenguajes de programación identificados en el código que enviaste:  
+
 
 ### **1. Nombres**  
 Son los identificadores utilizados para variables, funciones, estructuras, etc.  
@@ -751,6 +751,8 @@ Incluyen tipos primitivos (`int`, `float`, `char`) y compuestos (`struct`).
 
 ---
 
+***Segundo código: memory_management.c***
+
 ```c
 #include "memory_management.h"
 #include <stdlib.h>
@@ -851,9 +853,10 @@ void incrementStackDeallocations() {
 }
 #endif
 
-```
 
-Aquí están los **elementos fundamentales** de los lenguajes de programación en el código que proporcionaste:
+``
+
+
 
 ---
 
