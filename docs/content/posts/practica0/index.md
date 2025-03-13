@@ -118,12 +118,16 @@ ___
 <!-- Menciones -->
 @darthrookie :+1: :smile:
 
+---
+
 
 **Sesion 2:** Uso de Git y Github
 
 En la segunda sesión se hicieron uso de comandos de Git para iniciar nuestro repositorio, crear commits, usar push para enviar los archivos a nuestro repositorio, etc. Los principales comandos que se utilizaron fueron: init, add, restore, log, status, branch, commit, merge, switch, push, entre otros.
 
 Todo esto para poder hacer el repositorio en donde utilizaremos Hugo para crear nuestra pagina estatica.
+
+---
 
 **Sesion 3:** Combinar los conocimientos de Markdown y Git para generar páginas estáticas con Hugo y GitHub Actions.
 
