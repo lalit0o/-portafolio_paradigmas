@@ -125,9 +125,16 @@ En la segunda sesión se hicieron uso de comandos de Git para iniciar nuestro re
 
 Todo esto para poder hacer el repositorio en donde utilizaremos Hugo para crear nuestra pagina estatica.
 
+**Sesion 3:** Combinar los conocimientos de Markdown y Git para generar páginas estáticas con Hugo y GitHub Actions.
 
+En esta tercera sesion aprendimos a usar Hugo, framework que facilita la creacion de sitios web estáticos, y a automatizar su despliegue con GitHub Actions.
 
+Hugo permite generar páginas web de manera rápida organizando el contenido en carpetas y usando archivos en Markdown para añadir texto e imagenes.
 
+Los comandos que se utilizaron para esta practica fueron: __hugo new site nombre-del -sitio__, este comando sirve para crear la estructura del proyecto en la carpeta content/
 
+__hugo new post/mi-primer-post.md__ Sirve para crear un nuevo post en la pagina
 
+__hugo server__ Sirve para crear el servidor de la pagina
 
+Gracias a Git Bash, pudimos gestionar, hacer commits y conectar el proyecto con GitHub de manera eficiente. Al final, logramos comprender como crear, modificar y desplegar un sitio web estatico utilizando Hugo, GitHub Actions y Git Bash.
