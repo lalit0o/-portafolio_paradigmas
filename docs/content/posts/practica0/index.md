@@ -3,6 +3,11 @@ date = '2025-02-21T10:18:14-08:00'
 draft = false
 title = 'Practica 0'
 +++
+
+
+
+**Sesion 1:** Sintaxis y uso de markdown
+En la primera sesion se hizo uso de Markdown para construir el esqueleto de la pagina estatica de Hugo. Lo realizado en Markdown en la primera sesion fue lo siguiente:
 <!--Encabezados-->
 
 # Encabezado 1
@@ -112,6 +117,8 @@ ___
   
 <!-- Menciones -->
 @darthrookie :+1: :smile:
+
+
 
 
 
